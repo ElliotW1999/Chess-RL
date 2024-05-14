@@ -10,4 +10,5 @@ Figure out how to train with monitoring
 Trial training of AlphaZero on Chess  
 Determine which algorithms to test on Chess  
 Implement search  
+Bootstrap with GM game data?  
 Cloud?
